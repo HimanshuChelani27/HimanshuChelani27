@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Chelani</h1>
-<h3 align="center">I'm a Full Stack Web Developer skilled in MERN , MEAN and Python stack who focuses on writing clean, elegant and efficient code.</h3>
+<h3 align="center">I'm a Full Stack Web Developer with expertise in MEAN, and Python stacks, specializing in building scalable and high-performance applications. With a strong focus on writing clean, efficient, and maintainable code, I have experience in developing web applications, integrating AI-powered solutions, and optimizing backend services. My skill set includes working with modern frameworks, databases, API development, and cloud-based deployments, ensuring seamless and robust digital experiences.</h3>
 
 - 🔭 I’m currently working at **Click2cloud as a Full Stack Web Developer**
 
