@@ -6,9 +6,9 @@ I build multi-agent systems, RAG applications and secure enterprise AI platforms
 </p>
 
 <p align="center">
-  <a href="https://himanshu-portfolio-a44c7.web.app"><img src="https://img.shields.io/badge/Portfolio-himanshu--portfolio-7d6bf5?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/himanshu-chelani-385a261aa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:himanshuchelani4@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://himanshu-portfolio-a44c7.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-7d6bf5?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/himanshu-chelani-385a261aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:himanshuchelani4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -27,10 +27,10 @@ I build multi-agent systems, RAG applications and secure enterprise AI platforms
 
 | Project | What it does | Links |
 |---|---|---|
-| **[AgentHub](https://github.com/HimanshuChelani27/agenthub)** | MCP gateway and agent registry: every tool call goes through RBAC policies, Presidio PII masking, audit logs and span-level traces. Includes a LangGraph multi-agent "research crew". | [Live demo](https://agent-hub-tawny-three.vercel.app) |
-| **[DocuMind](https://github.com/HimanshuChelani27/documind)** | Hybrid RAG over PDFs: FAISS + BM25, reciprocal-rank fusion and cross-encoder rerank, answers streamed with page-level citations, plus an eval page comparing retrieval strategies. | [Live demo](https://documind-five-sooty.vercel.app) |
-| **[EvalForge](https://github.com/HimanshuChelani27/evalforge)** | LLM training and evaluation studio: rubric and pairwise labelling, LLM-as-judge with agreement stats, RLHF/DPO JSONL export. | 🚧 In progress |
-| **[KisanVoice](https://github.com/HimanshuChelani27/kisanvoice)** | Multilingual voice agent for farmers: Whisper → LangGraph agent with weather, crop-advice and mandi-price tools → TTS, with escalation to a human queue. | 🚧 Coming soon |
+| <a href="https://github.com/HimanshuChelani27/agenthub" target="_blank"><b>AgentHub</b></a> | MCP gateway and agent registry: every tool call goes through RBAC policies, Presidio PII masking, audit logs and span-level traces. Includes a LangGraph multi-agent "research crew". | <a href="https://agent-hub-tawny-three.vercel.app" target="_blank">Live demo</a> |
+| <a href="https://github.com/HimanshuChelani27/documind" target="_blank"><b>DocuMind</b></a> | Hybrid RAG over PDFs: FAISS + BM25, reciprocal-rank fusion and cross-encoder rerank, answers streamed with page-level citations, plus an eval page comparing retrieval strategies. | <a href="https://documind-five-sooty.vercel.app" target="_blank">Live demo</a> |
+| <a href="https://github.com/HimanshuChelani27/evalforge" target="_blank"><b>EvalForge</b></a> | LLM training and evaluation studio: rubric and pairwise labelling, LLM-as-judge with agreement stats, RLHF/DPO JSONL export. | 🚧 In progress |
+| <a href="https://github.com/HimanshuChelani27/kisanvoice" target="_blank"><b>KisanVoice</b></a> | Multilingual voice agent for farmers: Whisper → LangGraph agent with weather, crop-advice and mandi-price tools → TTS, with escalation to a human queue. | 🚧 Coming soon |
 
 ---
 
@@ -61,7 +61,7 @@ I build multi-agent systems, RAG applications and secure enterprise AI platforms
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/himanshu-chelani-385a261aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/himanshuchelani4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://leetcode.com/himanshu27_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/himanshu-chelani-385a261aa/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/himanshuchelani4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://leetcode.com/himanshu27_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
