@@ -59,7 +59,9 @@ I build multi-agent systems, RAG applications and secure enterprise AI platforms
 
 ---
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/himanshuchelani4"><img src="https://img.shields.io/badge/HackerRank-himanshuchelani4-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://leetcode.com/himanshu27_"><img src="https://img.shields.io/badge/LeetCode-himanshu27__-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/himanshu-chelani-385a261aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/himanshuchelani4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="https://leetcode.com/himanshu27_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
