@@ -6,7 +6,7 @@ I build multi-agent systems, RAG applications and secure enterprise AI platforms
 </p>
 
 <p align="center">
-  <a href="https://himanshu-portfolio-a44c7.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-7d6bf5?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://himanshu-portfolio-a44c7.web.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-7D6BF5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/himanshu-chelani-385a261aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:himanshuchelani4@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
